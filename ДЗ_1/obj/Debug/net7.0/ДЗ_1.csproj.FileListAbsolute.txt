@@ -1,0 +1,15 @@
+C:\Users\Елена\Desktop\Домашка\ДЗ\ДЗ_1\obj\Debug\net7.0\ДЗ_1.csproj.AssemblyReference.cache
+C:\Users\Елена\Desktop\Домашка\ДЗ\ДЗ_1\obj\Debug\net7.0\ДЗ_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\Домашка\ДЗ\ДЗ_1\obj\Debug\net7.0\ДЗ_1.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\Домашка\ДЗ\ДЗ_1\obj\Debug\net7.0\ДЗ_1.AssemblyInfo.cs
+C:\Users\Елена\Desktop\Домашка\ДЗ\ДЗ_1\obj\Debug\net7.0\ДЗ_1.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\Домашка\ДЗ\ДЗ_1\bin\Debug\net7.0\ДЗ_1.exe
+C:\Users\Елена\Desktop\Домашка\ДЗ\ДЗ_1\bin\Debug\net7.0\ДЗ_1.deps.json
+C:\Users\Елена\Desktop\Домашка\ДЗ\ДЗ_1\bin\Debug\net7.0\ДЗ_1.runtimeconfig.json
+C:\Users\Елена\Desktop\Домашка\ДЗ\ДЗ_1\bin\Debug\net7.0\ДЗ_1.dll
+C:\Users\Елена\Desktop\Домашка\ДЗ\ДЗ_1\bin\Debug\net7.0\ДЗ_1.pdb
+C:\Users\Елена\Desktop\Домашка\ДЗ\ДЗ_1\obj\Debug\net7.0\ДЗ_1.dll
+C:\Users\Елена\Desktop\Домашка\ДЗ\ДЗ_1\obj\Debug\net7.0\refint\ДЗ_1.dll
+C:\Users\Елена\Desktop\Домашка\ДЗ\ДЗ_1\obj\Debug\net7.0\ДЗ_1.pdb
+C:\Users\Елена\Desktop\Домашка\ДЗ\ДЗ_1\obj\Debug\net7.0\ДЗ_1.genruntimeconfig.cache
+C:\Users\Елена\Desktop\Домашка\ДЗ\ДЗ_1\obj\Debug\net7.0\ref\ДЗ_1.dll
